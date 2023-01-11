@@ -1,0 +1,27 @@
+nav ul{
+    display: flex;
+}
+
+nav li{
+    list-style: none;
+    margin-right: 30px;
+}
+nav li a{
+    text-decoration: none;
+}
+
+nav li:hover{
+    background-color: rgba(255, 105, 51, 0.564);
+    
+}
+
+table{
+    border-collapse: collapse;
+}
+td, th{
+    border: 1px solid blueviolet;
+    padding: 5px 15px;
+    width: 150px;
+    align-items: center;
+    text-align: center;
+}
